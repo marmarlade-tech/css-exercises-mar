@@ -2,7 +2,9 @@
     background-color: #ff000070;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.Small {font-size: 24px;}
+.adjust-font-size {
+    font-size: 24px;
+}
 .Num-3 {
     font-size: 30px;
 }
@@ -12,7 +14,6 @@
 }
 #Num-4 {
     font-weight: 600;
-    font-size: 24px;
     background-color: #0bff0b90;
 }
 /* Add CSS Styling */
