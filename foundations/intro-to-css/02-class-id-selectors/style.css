@@ -1,1 +1,18 @@
+.Odd {
+    background-color: #ff000070;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Small {font-size: 24px;}
+.Num-3 {
+    font-size: 30px;
+}
+#Num-2 {
+    font-size: 36px;
+    color: blue;
+}
+#Num-4 {
+    font-weight: 600;
+    font-size: 24px;
+    background-color: #0bff0b90;
+}
 /* Add CSS Styling */
