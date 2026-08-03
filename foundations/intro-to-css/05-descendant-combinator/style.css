@@ -1,1 +1,5 @@
-/* Add CSS Styling */
+div.container{
+    background-color: hsl(56, 100%, 51%);
+    text-align: center;
+    color: hsl(0, 100%, 56%)
+}/* Add CSS Styling */
